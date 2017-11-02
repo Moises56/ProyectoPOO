@@ -1,0 +1,116 @@
+#imaginary_container{
+    margin-top:20%; 
+}
+.stylish-input-group .input-group-addon{
+    background: transparent !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:none;
+}
+
+.panel{
+	position: fixed;
+    top: 64px;
+    bottom: 0;
+    left: 0;
+    padding-top: 16px;
+    max-width: 100%;
+    border-style: double;
+}
+.input-group-addon {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1;
+    color: #d6ff00;
+    text-align: center;
+    background-color: #eee;
+   }
+.panelapps{
+	    background: #fff;
+    border: 1px solid #a90f0f;
+    border-color: rgba(160, 3, 3, 0.2);
+    color: #000;
+    outline: none;
+    overflow: hidden;
+    position: absolute;
+    right: 14px;
+    top: 67px;
+    min-height: 196px;
+    overflow-y: auto;
+    width: 320px;
+	}
+.panelinterno{
+	background: #fff;
+    margin: 0;
+    min-height: 100px;
+    text-align: left;
+    white-space: normal;
+    width: 266px;
+    display: block;
+        padding-left: 0;
+
+}
+
+.apps{
+	padding: 1px;
+    display: inline-block;
+    vertical-align: top;
+    color: black;
+    z-index: 999;
+    height: 98px;
+    width: 86px;
+}
+.app{
+
+
+	display: inline-block;
+    font-size: 13px;
+    margin: 8px 2px;
+    text-align: center;
+    outline: none;
+    color: #404040;
+    text-decoration: none;
+}
+.nombreapp{
+	    display: inline-block;
+    vertical-align: top;
+    height: 64px;
+    width: 64px;
+        background-position: 0 -1451px;
+}
+@media (max-width: 1025px) and (min-width: 50px) { 
+	.navbar-left
+ {
+display: none !important;
+}}
+
+.iHuPVd{
+        font: inherit;
+    margin: 0;
+}
+.centrado-porcentual {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+
+.div-small{
+    margin-top: 5%;
+    float: right;
+    width: 80%;
+}
+.div-large{
+    margin-top: 2%;
+    width: 100%;
+    padding-right: 1%;
+    
+}
