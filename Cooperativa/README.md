@@ -1,2 +1,2 @@
-# PooPlus
-Proyecto-POO Pagina similar a google+
+# Cooperativa
+Proyecto-POO 
