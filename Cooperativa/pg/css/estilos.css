@@ -1,0 +1,33 @@
+#imaginary_container{
+    margin-top:20%; 
+}
+.stylish-input-group .input-group-addon{
+    background: transparent; !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+.panel{
+	position: fixed;
+    top: 64px;
+    bottom: 0;
+    left: 0;
+    padding-top: 16px;
+    max-width: 100%;
+}
+.input-group-addon {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1;
+    color: #d6ff00;
+    text-align: center;
+    background-color: #eee;
+   }
